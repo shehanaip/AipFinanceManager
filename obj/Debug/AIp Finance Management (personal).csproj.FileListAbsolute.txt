@@ -1,0 +1,86 @@
+D:\project\AIp Finance Management (personal)\bin\Debug\AIp Finance Management (personal).exe.config
+D:\project\AIp Finance Management (personal)\bin\Debug\AIp Finance Management (personal).exe
+D:\project\AIp Finance Management (personal)\bin\Debug\AIp Finance Management (personal).pdb
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\BunifuDataViz.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\LiteDB.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\LiveCharts.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\LiveCharts.WinForms.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\LiveCharts.Wpf.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Microsoft.Win32.Registry.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Newtonsoft.Json.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\RestSharp.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Buffers.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.CodeDom.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Data.Odbc.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Data.OleDb.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Data.SqlClient.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Diagnostics.EventLog.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Drawing.Common.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.IO.Packaging.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.IO.Ports.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Memory.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Numerics.Vectors.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.AccessControl.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Permissions.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Security.Principal.Windows.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.ServiceModel.Syndication.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\System.Threading.AccessControl.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Xamarin.Forms.Core.xml
+D:\project\AIp Finance Management (personal)\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).csproj.AssemblyReference.cache
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.forms.Dashboard.resources
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.frm.resources
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.Income.resources
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.Properties.Resources.resources
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).csproj.GenerateResource.cache
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).exe.licenses
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).csproj.CoreCompileInputs.cache
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).csproj.Fody.CopyLocal.cache
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).csproj.CopyComplete
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).exe
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp Finance Management (personal).pdb
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.frmAddIncome.resources
+D:\project\AIp Finance Management (personal)\obj\Debug\AIp_Finance_Management__personal_.frmExpenseItem.resources
